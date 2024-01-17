@@ -7,8 +7,11 @@ paragraf2
 paragraf3
 
 **paragraf pogrubiony**
+
 *kursywa*
+
 ~~przekreslone~~
+
 >cytat
 
 lista numeryczna
